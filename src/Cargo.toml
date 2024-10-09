@@ -1,0 +1,11 @@
+[workspace]
+resolver = "2"
+
+members = [
+  "lambdas/auth",
+  "lambdas/user",
+  "libs/models",
+  "libs/repositories",
+  "libs/services",
+  "libs/utils",
+]

@@ -1,4 +1,3 @@
-// src/libs/models/src/auth/register.rs
 use serde::{Deserialize, Serialize};
 
 #[derive(Debug, Deserialize, Serialize)]
